@@ -99,7 +99,7 @@ parallelcode agent review
 | Local Background Agent | ✅ Yes | ✅ Yes | ❌ Cloud-only | ❌ No |
 | Full Offline Support | ✅ Yes | ⚠️ Partial | ❌ No | ❌ No |
 | Privacy (100% Local) | ✅ Yes | ✅ Yes | ❌ No | ❌ No |
-| Open Source | ✅ Yes | ❌ No | ❌ No | ❌ No |
+| Enterprise Support | ✅ Yes | ✅ Yes | ⚠️ Limited | ⚠️ Limited |
 | Autonomous Refactoring | ✅ Yes | ⚠️ Limited | ⚠️ Limited | ❌ No |
 | Real-time Test Gen | ✅ Yes | ❌ No | ❌ No | ⚠️ Limited |
 
@@ -306,7 +306,7 @@ ParallelCode is built on cutting-edge technologies:
 - **Local-First Design** - All code processing happens on your machine
 - **No Telemetry** - Zero data collection or external transmission
 - **Enterprise-Grade** - Perfect for proprietary and sensitive projects
-- **Open Source** - Full transparency, audit the code yourself
+- **Complete Data Control** - Your code and IP never leave your infrastructure
 - **Offline Capable** - Works without internet after initial setup
 
 ## 🤝 Contributing
